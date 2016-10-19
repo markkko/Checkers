@@ -1,0 +1,4 @@
+1. Funkcija  procene na uobicajenu funkciju dodaje jos jedan bod ako se nalazi u stanju "forcedJump"
+2. Kako progresivno produbljivanje krece od prvog cvora, na pocetku su zanemarene dublje pretrage, 
+   tako da smo u nasoj funkciji u startu poceli da pretrazujemo do 25og cvora.
+3. Moj igrac je malo unapredjena verzija alfabeta igraca. 
